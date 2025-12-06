@@ -81,7 +81,7 @@ if (hProcessSnap == INVALID_HANDLE_VALUE) {
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome\!
-Feel free to check the [issues page](https://www.google.com/search?q=https://github.com/Anonymouse-dev-hub/MouseKeyMonitor/issues) if you want to contribute.
+Feel free to check the [issues page]([https://www.google.com/search?q=https://github.com/Anonymouse-dev-hub/MouseKeyMonitor/issues](https://github.com/Anonymouse-dev-hub/MouseKeyMonitor/issues)) if you want to contribute.
 
 1.  Fork the repository
 2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
