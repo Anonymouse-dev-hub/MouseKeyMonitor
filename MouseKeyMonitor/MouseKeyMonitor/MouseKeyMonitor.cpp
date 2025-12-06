@@ -34,7 +34,7 @@ void CheckForSuspiciousProcesses() {
         if (hProcess) {
             // Logic: Keyloggers often run with no visible window but active threads
             // In a real tool, we would check if they are calling 'SetWindowsHookEx'
-            // For this portfolio demo, we flag generic suspicious names or unsigned binaries
+          
 
             std::wstring processName = pe32.szExeFile;
 
@@ -63,4 +63,5 @@ int main() {
     std::cout << "\nPress Enter to exit...";
     std::cin.get();
     return 0;
+
 }
